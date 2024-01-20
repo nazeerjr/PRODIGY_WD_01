@@ -17,11 +17,14 @@ nav {
     grid-template-columns: auto 1fr;
     align-items: center;
     padding: 10px;
-    background-color:#7DA2A9;
+    
     color: #F7F7F7;
     width: 100%;
     position: fixed;
     z-index: 1000;
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    
+   
 }
 
 nav ul {
@@ -81,7 +84,7 @@ hr {
 }
 nav.scrolled {
     background: linear-gradient(300deg, #E6E2DD, #7DA2A9, #ef8172);
-    background-size: 180% 180%;
+     background-size: 180% 180%;
     animation:  18s ease infinite;
 }
 
