@@ -45,11 +45,7 @@ nav a {
 }
 
 
-nav.scrolled {
-    background: linear-gradient(300deg, #E6E2DD, #7DA2A9, #ef8172);
-    background-size: 180% 180%;
-    animation:  18s ease infinite;
-}
+
 
 .content {
     display: grid;
@@ -83,7 +79,11 @@ hr {
   nav ul li.hovered a {
     color: #ffc107;
 }
-
+nav.scrolled {
+    background: linear-gradient(300deg, #E6E2DD, #7DA2A9, #ef8172);
+    background-size: 180% 180%;
+    animation:  18s ease infinite;
+}
 
 
 
