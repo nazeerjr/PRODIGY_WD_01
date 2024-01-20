@@ -3,8 +3,11 @@
 
 **Project Features:**
 _Interactive Navigation Menu_: Utilizing HTML to structure the menu, CSS for styling, and JavaScript for interactivity.
+
 _Scroll Effect_: The navigation menu changes its color or style dynamically as the user scrolls through the page.
+
 _Hover Effects_: The menu items respond with style changes when hovered over, providing a visually engaging user experience.
+
 _Fixed Position_: The navigation menu is fixed, ensuring it remains visible at all times, enhancing user navigation across pages.
 
 **Technologies Used:**
